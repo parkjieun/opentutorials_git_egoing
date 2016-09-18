@@ -16,4 +16,4 @@ git수업
 pull
 egoing
 leezche
-egoingconflict!!!!!!!!!!!
+egoingconflict!!!!!!!!!leezche 해결
