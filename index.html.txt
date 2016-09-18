@@ -14,3 +14,4 @@ git수업
 동기화push
 pull
 egoing
+leezche
