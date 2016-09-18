@@ -13,3 +13,4 @@ git수업
 2
 동기화push
 pull
+egoing
