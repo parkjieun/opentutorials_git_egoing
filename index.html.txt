@@ -2,6 +2,7 @@
 <head>
 git수업
 </head>
+머지
 <header>
 <body>안녕</body>
 </header>
